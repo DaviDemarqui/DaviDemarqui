@@ -12,7 +12,7 @@ That's why I like to make things that make a difference.
 
 - 👨🏻‍💻 I’m currently working on something cool;
 - 🚀 I’m currently learning angular, Python and Java;
-- 📫 How to reach me: davi_demarqui@outlook.com;
+- 📫 How to reach me: davidemarqui@icloud.com;
 
 
 📈 **My GitHub Stats:**
