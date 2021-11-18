@@ -11,7 +11,7 @@ As a web developer, I enjoy make what i love and use what im learning to make th
 That's why I like to make things that make a difference.
 
 - 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning angular, Python and Java;
+- 🚀 I’m currently learning Java and Angular;
 - 📫 How to reach me: davidemarqui@icloud.com;
 
 
