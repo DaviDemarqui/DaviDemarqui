@@ -10,8 +10,8 @@ I am a front-end web developer. I love programming, music, and traveling.
 As a web developer, I enjoy make what i love and use what im learning to make things to change the world.
 That's why I like to make things that make a difference.
 
-- 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning Java and Angular;
+- 👨🏻‍💻 I’m currently working on something very cool;
+- 🚀 I’m currently learning Java, spring and Angular;
 - 📫 How to reach me: davidemarqui@icloud.com;
 
 
