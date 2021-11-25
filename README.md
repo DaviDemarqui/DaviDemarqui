@@ -5,9 +5,9 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=DaviDemarqui.DaviDemarqui)
 
-I am a front-end web developer. I love programming, music, and traveling.
+I am a  software developer, web developer, game developer. I love programming, music, and fast cars.
 
-As a web developer, I enjoy make what i love and use what im learning to make things to change the world.
+As a developer, I enjoy make what i love and use what im learning to make things to change the world.
 That's why I like to make things that make a difference.
 
 - 👨🏻‍💻 I’m currently working on something very cool;
