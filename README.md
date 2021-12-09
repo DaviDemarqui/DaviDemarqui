@@ -22,5 +22,5 @@ That's why I like to make things that make a difference.
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviDemarqui&exclude_repo=KNN-Image-    Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 <div>
-  ![Snake animation](https://github.com/DaviDemarqui/DaviDemarqui/blob/output/github-contribution-grid-snake.svg)  
+![github contribution grid snake animation](https://raw.githubusercontent.com/DaviDemarqui/DaviDemarqui/output/github-contribution-grid-snake.svg)
 </div>
