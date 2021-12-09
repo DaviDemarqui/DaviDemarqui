@@ -19,6 +19,5 @@ That's why I like to make things that make a difference.
 
 <p>
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=DaviDemarqui&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviDemarqui&exclude_repo=KNN-Image-    Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8theme=dark"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviDemarqui&exclude_repo=KNN-Image-    Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>
 </p>
-![grid snake animation](https://github.com/DaviDemarqui/DaviDemarqui/blob/main/github-user-contribution.svg)
