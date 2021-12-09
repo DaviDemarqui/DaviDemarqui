@@ -21,6 +21,4 @@ That's why I like to make things that make a difference.
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=DaviDemarqui&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviDemarqui&exclude_repo=KNN-Image-    Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
-<div>
 ![github contribution grid snake animation](https://raw.githubusercontent.com/DaviDemarqui/DaviDemarqui/output/github-contribution-grid-snake.svg)
-</div>
