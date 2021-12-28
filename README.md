@@ -12,7 +12,7 @@ That's why I like to make things that make a difference.
 
 - 👨🏻‍💻 I’m currently working on something very cool;
 - 🚀 I’m currently learning Java, Python, C++, and spring;
-- 📫 How to reach me: davidemarqui@icloud.com;
+- 📫 How to reach me: davidemarquibraga823@gmail.com | +55(17)98205-6598;
 
 
 📈 **My GitHub Stats:**
