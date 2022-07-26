@@ -11,7 +11,7 @@ As a developer, I enjoy make what i love and use what im learning to make things
 That's why I like to make things that make a difference.
 
 - 👨🏻‍💻 I’m currently working on something very cool;
-- 🚀 I’m currently learning Java, Python, C++, and spring;
+- 🚀 I’m currently learning Java, C#, C++, and React;
 - 📫 How to reach me: davidemarquibraga823@gmail.com
 
 
