@@ -5,14 +5,14 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=DaviDemarqui.DaviDemarqui)
 
-I am a  software developer, web developer, game developer. I love programming, music, and fast cars.
+I am a Software Engineer and founder at NEXT. I love coding, music, and fast cars.
 
 As a developer, I enjoy make what i love and use what im learning to make things to change the world.
 That's why I like to make things that make a difference.
 
 - 👨🏻‍💻 I’m currently working on something very cool;
-- 🚀 I’m currently learning Java, Flutter and Supabase;
-- 📫 How to reach me: davidemarquibraga823@gmail.com
+- 🚀 I’m currently learning SvelteKit and Typescript;
+- 📫 How to reach me: davidemarqui@nextdigitalcompany.com
 
 
 📈 **My GitHub Stats:**
