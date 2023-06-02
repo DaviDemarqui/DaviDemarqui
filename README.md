@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidemarqui&label=Profile%20views&color=0e75b6&style=flat" alt="davidemarqui" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidemarqui" alt="davidemarqui" /></a> </p>
-
 - 📫 How to reach me **davidemarqui@nextdigitalcompany.com**
+
+- ⚡ Fun fact **I enjoy creating opportunities and developing new projects with amazing people**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
