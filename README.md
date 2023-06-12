@@ -2,7 +2,7 @@
 <h3 align="center">Brazilian Software Engineer & Founder at Next, SoundL</h3>
 
 <p align="center">
-    <img src="[https://media.giphy.com/media/4C6vAgZ5WAGSc/giphy.gif](https://media.tenor.com/_4YgA77ExHEAAAAd/rick-roll.gif)" alt="Rick Astley - Never Gonna Give You Up" width="480" height="360" />
+    <img src="https://media.tenor.com/_4YgA77ExHEAAAAd/rick-roll.gif" alt="Rick Astley - Never Gonna Give You Up" width="480" height="360" />
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
