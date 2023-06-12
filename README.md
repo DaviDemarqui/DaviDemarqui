@@ -19,11 +19,4 @@
 
 
 ![alt text](https://camo.githubusercontent.com/174c7efd1e82034e3f9b7d51a82fd117fe22cae04105f619aa4bc3f2d02544b1/68747470733a2f2f6d65646961312e74656e6f722e636f6d2f696d616765732f34363764333533663765326434333536336365313366646462623231333730392f74656e6f722e6769663f6974656d69643d3132313336313735)
-<div style="display: inline_block"><br>
-  <img align="center" alt="Fernando-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Fernando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Fernando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Fernando-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Fernando-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Fernando-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
-</div>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoPestillo&layout=compact&langs_count=7&theme=dark"/>
