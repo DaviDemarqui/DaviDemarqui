@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Davi Demarqui</h1>
-<h3 align="center">Brazilian Software Engineer & Founder at Next, SoundL</h3>
+<h3 align="center">Full Stack Software Engineer & Founder at Next, LeadFy</h3>
 
 <p align="center">
      <img height="30%" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviDemarqui&layout=compact&langs_count=7&theme=dark"/>
