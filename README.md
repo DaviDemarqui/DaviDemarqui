@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Davi Demarqui and I'm a Full Stack Software Developer, from Brazil</h2>
+<h2 align="left">Hi 👋! I'm a self-taught Full Stack Software Developer</h2>
 
 ###
 
