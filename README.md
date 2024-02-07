@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm a self-taught Full Stack Software Developer</h2>
+<h2 align="left">Hi!👋 I'm Dave a self-taught Full Stack Software Developer</h2>
 
 ###
 
