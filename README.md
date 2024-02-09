@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm Dave</h2>
+<h2 align="left">Hi, I'm Dave✌</h2>
 
 ###
 
@@ -29,7 +29,7 @@ I have never stopped creating new projects or getting involved in new ones.
 I've worked on a wide range of projects, from open-source projects to applications used by thousands of people. 
 Today I am immensely happy to be working with what was once a hobby for me and to be in teams full of incredible people.
 
-I'm open to work on new projects using this tech and knowledge
+I'm open to work on new projects using this tech and knowledge.
 
 ###
 
