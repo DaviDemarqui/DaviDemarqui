@@ -1,4 +1,4 @@
-<h2 align="left">Hi!👋 I'm Dave a self-taught Full Stack Software Developer</h2>
+<h2 align="left">Hi, I'm Dave</h2>
 
 ###
 
@@ -19,6 +19,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
 </div>
+
+###
+
+Well, where do I start?
+
+I started coding at age 15 and coding became a passion for me, and since then, 
+I have never stopped creating new projects or getting involved in new ones. 
+I've worked on a wide range of projects, from open-source projects to applications used by thousands of people. 
+Today I am immensely happy to be working with what was once a hobby for me and to be in teams full of incredible people.
+
+I'm open to work on new projects using this tech and knowledge
 
 ###
 
