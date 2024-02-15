@@ -21,9 +21,9 @@ Well, where do I start?
 I started coding at age 15 and coding became a passion for me, since then 
 I have never stopped creating new projects or getting involved in new ones. 
 I've worked on a wide range of projects, from open-source projects to applications used by thousands of people. 
-Today I am immensely happy to be working with what was once a hobby for me and to be in teams full of incredible people.
+Today I am immensely happy to be working as a with what was once a hobby for me and to be part of teams full of amazing people.
 
-I'm open to work on new projects using this tech and knowledge.
+I'm open to work on new projects using this tech-stack.
 
 ###
 
