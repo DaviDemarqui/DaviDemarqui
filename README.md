@@ -16,8 +16,6 @@
 
 ###
 
-Well, where do I start?
-
 I started coding at age 15 and coding became a passion for me, since then 
 I have never stopped creating new projects or getting involved in new ones. 
 I've worked on a wide range of projects, from open-source projects to applications used by thousands of people. 
