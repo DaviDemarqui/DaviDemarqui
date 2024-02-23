@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm Davi Demarqui</h2>
+<h2 align="left">Hi, I'm Davi Demarqui✌</h2>
 
 ###
 
