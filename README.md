@@ -45,4 +45,4 @@ I'm open to work on new projects using this tech-stack.
 
 ###
 
-<a href="https://github.com/DaviDemarqui/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviDemarqui&hide=html,css&layout=compact&theme=apprentice&hide_border=true" /></a>
+<a href="https://github.com/DaviDemarqui/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviDemarqui&hide=html,css&layout=compact&theme=transparent&hide_border=true" /></a>
