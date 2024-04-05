@@ -44,7 +44,7 @@ I'm open to work on new projects using this tech-stack.
 </div>
 
 ###
-<div>
-  <a href="https://github.com/DaviDemarqui/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviDemarqui&hide=html,css&layout=donut&theme=chartreuse-dark&hide_border=true" /></a>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviDemarqui&show_icons=true&theme=chartreuse-dark&hide_border=true)
-</div>
+
+<a href="https://github.com/DaviDemarqui/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviDemarqui&hide=html,css&layout=donut&theme=chartreuse-dark&hide_border=true" /></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviDemarqui&show_icons=true&theme=chartreuse-dark&hide_border=true)
+
