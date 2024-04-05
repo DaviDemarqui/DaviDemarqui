@@ -1,7 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1CF775&random=false&width=435&lines=I'm+Davi+Demarqui)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=1CF775&random=false&width=435&height=28&lines=Welcome!;I'm+Davi+Demarqui)](https://git.io/typing-svg)
 ###
-
 <div align="left">
   <a href="https://www.instagram.com/iamdaviddb/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
