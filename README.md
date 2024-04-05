@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=1CF775&random=false&width=435&height=28&lines=Welcome!;I'm+Davi+Demarqui)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=100&color=D7F4F7&random=false&width=435&lines=Welcome!;I'm+David)](https://git.io/typing-svg)
 ###
 <div align="left">
   <a href="https://www.instagram.com/iamdaviddb/" target="_blank">
@@ -45,4 +45,4 @@ I'm open to work on new projects using this tech-stack.
 
 ###
 
-<a href="https://github.com/DaviDemarqui/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviDemarqui&hide=html,css&layout=compact&theme=chartreuse-dark&hide_border=true" /></a>
+<a href="https://github.com/DaviDemarqui/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviDemarqui&hide=html,css&layout=compact&theme=apprentice&hide_border=true" /></a>
