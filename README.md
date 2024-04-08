@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=C7F7E9&random=false&width=435&lines=Welcome+%3A);I'm+David+Demarqui)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=consolas&size=30&pause=1000&color=C7F7E9&vCenter=true&random=false&width=435&lines=Welcome+%3AI'm+David+Demarqui)](https://git.io/typing-svg)
 ###
 <div align="left">
   <a href="https://www.instagram.com/iamdaviddb/" target="_blank">
