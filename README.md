@@ -1,18 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=consolas&size=30&pause=1000&color=C7F7E9&vCenter=true&random=false&width=435&lines=Welcome!;I'm+David+Demarqui)](https://git.io/typing-svg)
 ###
-<div align="left">
-  <a href="https://www.instagram.com/iamdaviddb/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="discordapp.com/users/481561932093063178" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="mailto:davidemaquib@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
-###
 
 I started coding at age 15 and coding became a passion for me, since then 
 I have never stopped creating new projects or getting involved in new ones. 
