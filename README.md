@@ -6,7 +6,7 @@ I have never stopped creating new projects or getting involved in new ones.
 I've worked on a wide range of projects, from open-source projects to applications used by thousands of people. 
 I'm always willing to improve, learn, and deliver while collaborating with teams in projects.
 
-I'm open to work on new projects using this tech-stack:
+I'm open to work on new projects using this tech-stack
 
 ###
 
