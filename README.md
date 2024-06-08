@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=C7F7E7&random=false&width=435&lines=Welcome%2C+Dude;Welcome%2C+Darling;Welcome%2C+Ex+Girlfriend;Welcome%2C+My+Loan+Shark;Welcome%2C+Time+Traveler;Welcome%2C+My+Future+Self;Welcome%2C+Skynet;Welcome%2C+FBI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=44F796&random=false&width=435&lines=Welcome%2C+Dude;Welcome%2C+Darling;Welcome%2C+Ex+Girlfriends;Welcome%2C+My+Loan+Shark;Welcome%2C+Time+Traveler;Welcome%2C+My+Future+Self;Welcome%2C+FBI;Not+Welcome+to+you+PHP+dev;Welcome%2C+Arch+Linux+User;Welcome%2C+Satoshi)](https://git.io/typing-svg)
 
 Everything started on a Windows XP shitbox from the 90s, but I didn't started code until I was 15.
 
