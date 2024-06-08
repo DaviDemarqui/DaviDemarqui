@@ -1,13 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=consolas&size=30&pause=1000&color=C7F7E9&vCenter=true&random=false&width=435&lines=Welcome!;I'm+David+Demarqui)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=C7F7E7&random=false&width=435&lines=Welcome%2C+Dude;Welcome%2C+Darling;Welcome%2C+Ex+Girlfriend;Welcome%2C+My+Loan+Shark;Welcome%2C+Time+Traveler;Welcome%2C+My+Future+Self;Welcome%2C+Skynet;Welcome%2C+FBI)](https://git.io/typing-svg)
 ###
 
-I started coding at age 15 and coding became a passion for me, since then 
-I have never stopped creating new projects or getting involved in new ones. 
-I've worked on a wide range of projects, from open-source projects to applications used by thousands of people. 
-I'm always willing to improve, learn, and deliver while collaborating with teams in projects.
+Everything started on a Windows XP shitbox from the 90s, but I didn't started code until I was 15.
+When I was 18 I drop out of university and pursue a career as a Full-Stack Developer. I was fortunate to land a job at a tech company that believed in my potential.
+Fast forward to today, at 21, I'm proud to say that I'm the owner of two companies. I'm deeply grateful to collaborate with an incredible team of innovators every day, shaping the future through the cutting-edge tools we're building.
 
-I'm open to work on new projects using this tech-stack
-
+What's Left of My Brain's Processing Power:
 ###
 
 <div align="left">
