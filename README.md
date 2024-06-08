@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=C7F7E7&random=false&width=435&lines=Welcome%2C+Dude;Welcome%2C+Darling;Welcome%2C+Ex+Girlfriend;Welcome%2C+My+Loan+Shark;Welcome%2C+Time+Traveler;Welcome%2C+My+Future+Self;Welcome%2C+Skynet;Welcome%2C+FBI)](https://git.io/typing-svg)
-###
+
 Everything started on a Windows XP shitbox from the 90s, but I didn't started code until I was 15.
 
 When I was 18 I drop out of university and pursue a career as a Full-Stack Developer. I was fortunate to land a job at a tech company that believed in my potential.
@@ -7,9 +7,7 @@ When I was 18 I drop out of university and pursue a career as a Full-Stack Devel
 Fast forward to today, at 21, I'm proud to say that I'm the owner of two companies. I'm deeply grateful to collaborate with an incredible team of innovators every day, shaping the future through the cutting-edge tools we're building.
 
 ###
-What's Left of My Brain's Processing Power:
-###
-
+What I've Managed to Not Forget (Yet):
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" height="30" alt="javascript logo"  />
   <img width="12" />
