@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Welcome)](https://git.io/typing-svg)
 
-###
 What I've Managed to Not Forget (Yet):
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" height="30" alt="javascript logo"  />
