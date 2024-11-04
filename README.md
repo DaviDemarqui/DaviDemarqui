@@ -1,10 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=44F796&random=false&width=435&lines=Welcome%2C+Dude;Welcome%2C+Darling;Welcome%2C+Ex+Girlfriends;Welcome%2C+My+Loan+Shark;Welcome%2C+Time+Traveler;Welcome%2C+My+Future+Self;Welcome%2C+FBI;Not+Welcome+to+you+PHP+dev;Welcome%2C+Arch+Linux+User;Welcome%2C+Satoshi)](https://git.io/typing-svg)
-
-Everything started on a Windows XP shitbox from the 90s, but I didn't started code until I was 15.
-
-When I was 18 I drop out of university and pursue a career as a Full-Stack Developer. I was fortunate to land a job at a tech company that believed in my potential.
-
-Fast forward to today, at 21, I'm proud to say that I'm the owner of two companies. I'm deeply grateful to collaborate with an incredible team of innovators every day, shaping the future through the cutting-edge tools we're building.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Welcome)](https://git.io/typing-svg)
 
 ###
 What I've Managed to Not Forget (Yet):
