@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Welcome)](https://git.io/typing-svg)
 
-What I've Managed to Not Forget (Yet):
+ I’m a self-taught software engineer with a keen interest in Web3, AI, and machine learning. My journey is driven by a relentless curiosity and a desire to innovate. I thrive in the intersection of technology and creativity, always seeking to push boundaries. Coding is my craft, and I embrace the challenge of transforming complex ideas into elegant solutions. I find inspiration in the chaos of the tech world, where every late-night session and brainstorming moment brings new possibilities. I’m here to make an impact, fueled by passion and an unshakeable commitment to excellence.
+ 
+Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" height="30" alt="javascript logo"  />
   <img width="12" />
