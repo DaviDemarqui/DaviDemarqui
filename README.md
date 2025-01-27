@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=WASSUP%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
-
 I’m a self-taught software engineer with a strong interest in Web3, AI, and machine learning. My journey is driven by curiosity and a desire to innovate. I enjoy working at the intersection of technology and creativity, transforming complex ideas into elegant solutions. I’m inspired by the ever-evolving tech landscape, where every new challenge brings opportunities to innovate. My goal is to make a meaningful impact, fueled by passion and an unshakeable commitment to excellence.
  
 Tech Stack:
