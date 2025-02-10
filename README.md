@@ -1,4 +1,4 @@
-I’m a self-taught software engineer with a strong interest in Web3, AI, and machine learning. My journey is driven by curiosity and a desire to innovate. I enjoy working at the intersection of technology and creativity, transforming complex ideas into elegant solutions. I’m inspired by the ever-evolving tech landscape, where every new challenge brings opportunities to innovate. My goal is to make a meaningful impact, fueled by passion and an unshakeable commitment to excellence.
+I’m a self-taught software engineer and startup founder. My journey is driven by curiosity and a desire to innovate. I enjoy working at the intersection of technology and creativity, transforming complex ideas into elegant solutions. I’m inspired by the ever-evolving tech landscape, where every new challenge brings opportunities to innovate. My goal is to make a meaningful impact, fueled by passion and an unshakeable commitment to excellence.
  
 Tech Stack:
 <div align="left">
